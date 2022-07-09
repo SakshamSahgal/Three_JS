@@ -6,7 +6,7 @@ let skull;
 
 function init()
 {
-    container = document.querySelector(".scene"); //get the div which will show the 2d model
+    container = document.querySelector(".scene"); //get the div which will show the 3d model
     
     //create scene
     scene = new THREE.Scene();
